@@ -1,6 +1,7 @@
 # Security System for Small Businesses and Schools
 
 <img src="C:\Users\devan\Downloads\30b5bcf7-f040-49d2-875a-9994d81d987e.jpeg" alt="Project Logo">
+![Security Project](assets/Secuity_Project.jpeg)
 
 Devfolio Link : https://devfolio.co/projects/security-system-for-small-business-and-schools-acf7
 
