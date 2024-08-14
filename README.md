@@ -19,10 +19,14 @@ This project provides a comprehensive security solution tailored for small busin
 - **Emergency Notifications:** Automated notifications in case of emergencies like fire or break-ins.
 - **Scalable:** Easily expand the system to accommodate additional cameras, sensors, and users.
 
-### Prerequisites
+## Technologies Used
 
-- Python 3.8+
-- MySQL or PostgreSQL
-- Flask Framework
-- Raspberry Pi (optional, for hardware integration)
-- Camera modules (optional, for video surveillance)
+- **WebSockets**
+- **Google Maps API**
+- **Relay Module**
+- **ESP32**
+- **Sensors:**
+  - Piezoelectric sensor
+  - PIR Sensor
+  - Microwave radar sensor
+- **Blynk**
