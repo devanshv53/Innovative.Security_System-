@@ -1,9 +1,9 @@
 # Security System for Small Businesses and Schools
 
-![Secuity_Project](https://github.com/user-attachments/assets/4eff68de-a8e6-4af7-b7d6-55ddd838bea8)
 
-Devfolio Link![Uploading Secuity_Project.jpeg…]()
- : https://devfolio.co/projects/security-system-for-small-business-and-schools-acf7
+![Secuity_Project](https://github.com/user-attachments/assets/cfc3d6c4-8597-4198-9e77-f7a9c557a318)
+
+Devfolio Link : https://devfolio.co/projects/security-system-for-small-business-and-schools-acf7
 
 ## Overview
 
@@ -25,4 +25,3 @@ This project provides a comprehensive security solution tailored for small busin
 - Flask Framework
 - Raspberry Pi (optional, for hardware integration)
 - Camera modules (optional, for video surveillance)
-
