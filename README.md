@@ -1,9 +1,6 @@
 # Security System for Small Businesses and Schools
 
-
-![Security_Project](https://github.com/user-attachments/assets/cfc3d6c4-8597-4198-9e77-f7a9c557a318)
-
-<img src="https://github.com/user-attachments/assets/cfc3d6c4-8597-4198-9e77-f7a9c557a318" alt="Secuity_Project" width="400" height='400'/>
+<img src="https://github.com/user-attachments/assets/cfc3d6c4-8597-4198-9e77-f7a9c557a318" alt="Secuity_Project" width="800" height='400'/>
 
 Devfolio Link : https://devfolio.co/projects/security-system-for-small-business-and-schools-acf7
 
