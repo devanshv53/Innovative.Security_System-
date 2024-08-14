@@ -1,7 +1,7 @@
 # Security-system-for-small-business-schools
 # Security System for Small Businesses and Schools
 
-![Project Logo]("C:\Users\devan\Downloads\30b5bcf7-f040-49d2-875a-9994d81d987e.jpeg")
+<img src="C:\Users\devan\Downloads\30b5bcf7-f040-49d2-875a-9994d81d987e.jpeg" alt="Project Logo">
 
 ## Overview
 
