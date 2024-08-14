@@ -3,6 +3,8 @@
 
 <img src="C:\Users\devan\Downloads\30b5bcf7-f040-49d2-875a-9994d81d987e.jpeg" alt="Project Logo">
 
+Devfolio Link : https://devfolio.co/projects/security-system-for-small-business-and-schools-acf7
+
 ## Overview
 
 This project provides a comprehensive security solution tailored for small businesses and schools. The system combines video surveillance, access control, and real-time alerts to ensure the safety and security of the premises. It is designed to be cost-effective, easy to install, and scalable to fit the needs of various institutions.
